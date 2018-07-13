@@ -3,4 +3,5 @@ Git is a distributed version control system.
 Git is free software.
 Git is free software distributed under the GPL.
 Now I will add a new floder.
-Have I gone to the master?
+Have I gone to the dev1 and master?
+I have try to fix it.
